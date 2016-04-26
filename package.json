@@ -22,16 +22,18 @@
     "React"
   ],
   "peerDependencies": {
-    "react": "~0.14.3",
-    "react-dom": "~0.14.3"
+      "react": "~15.0.1",
+      "react-dom": "~15.0.1"
   },
   "devDependencies": {
     "@telerik/eslint-config": "1.1.0",
+    "@telerik/kendo-react-tasks": "^1.0.0",
+    "@telerik/kendo-theme-default": "^1.8.0",
     "cz-conventional-changelog": "^1.1.5",
     "ghooks": "^1.0.3",
     "gulp": "3.9.0",
-    "@telerik/kendo-react-tasks": "^1.0.0",
-    "@telerik/kendo-theme-default": "telerik/kendo-theme-default#master",
+    "react": "~15.0.1",
+    "react-dom": "~15.0.1",
     "validate-commit-msg": "^1.1.1",
     "semantic-release": "^4.3.5"
   },
